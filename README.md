@@ -90,12 +90,6 @@ Read [`docs/methods-and-limitations.md`](docs/methods-and-limitations.md) before
 
 After installation, run `bash examples/run_demo.sh`. The small files in `examples/data/` are synthetic, non-biological coordinates and exist only to demonstrate the commands end to end. Output is written to `demo_output/`.
 
-## Relation to the original research scripts
-
-The initial use cases came from VMD/Tcl workflows for fitting copper-trafficking MBD/chaperone structures, rotating and translating partners, and preparing alternate encounter geometries. The reusable Python implementation removes workstation-specific absolute paths, hard-coded atom indices, and scattered literal translation vectors. No research trajectories or large output datasets are bundled.
-
-See [`docs/source-provenance.md`](docs/source-provenance.md) for the reviewed use cases and the changes made during generalization.
-
 ## Repository map
 
 ```text
