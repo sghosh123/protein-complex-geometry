@@ -1,0 +1,7 @@
+HEADER    SYNTHETIC GEOMETRY DEMO; NOT A BIOLOGICAL STRUCTURE
+ATOM      1  CA  VAL C  44       8.000  -2.000   4.000  1.00 20.00           C  
+ATOM      2  CA  LEU C  45       8.000  -1.000   4.000  1.00 20.00           C  
+ATOM      3  CA  ASP C  46       6.000  -2.000   4.000  1.00 20.00           C  
+ATOM      4  CA  PHE C  47       8.000  -2.000   7.000  1.00 20.00           C  
+TER
+END

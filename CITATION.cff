@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this software, cite the repository release and the associated research work where appropriate. Replace the placeholder repository metadata before publication."
+title: "protein-complex-geometry"
+type: software
+version: 0.1.0a1
+authors:
+  - family-names: "Author"
+    given-names: "Repository maintainer"

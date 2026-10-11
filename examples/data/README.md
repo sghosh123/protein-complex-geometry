@@ -1,0 +1,1 @@
+These tiny PDB files contain synthetic coordinates for software demonstrations and tests. They are **not biological structures** and must not be used for scientific conclusions. Regenerate them with `python examples/generate_synthetic_data.py` after installing the package.

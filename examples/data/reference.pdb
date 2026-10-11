@@ -1,0 +1,7 @@
+HEADER    SYNTHETIC GEOMETRY DEMO; NOT A BIOLOGICAL STRUCTURE
+ATOM      1  CA  ALA B  30       0.000   0.000   0.000  1.00 20.00           C  
+ATOM      2  CA  GLY B  31       1.000   0.000   0.000  1.00 20.00           C  
+ATOM      3  CA  SER B  32       0.000   2.000   0.000  1.00 20.00           C  
+ATOM      4  CA  THR B  33       0.000   0.000   3.000  1.00 20.00           C  
+TER
+END
