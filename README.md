@@ -4,8 +4,6 @@
 
 This package generalizes recurring structure-preparation tasks from the research workspace into a small Python toolkit: superpose a mobile protein using selected Cα atoms, apply rigid-body rotations/translations to PDB coordinates, and detect close inter-structure atom pairs before simulation or visualization.
 
-> **Status: alpha (`0.1.0a1`).** The geometry kernels are covered by synthetic tests. Validate atom selections, residue mappings, and the resulting structure against the biological system before using transformed coordinates in production simulations.
-
 ## Capabilities
 
 - **Rigid-body alignment:** Kabsch fit, with reflection disallowed, using explicitly matched residue/atom keys.
